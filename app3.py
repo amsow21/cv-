@@ -61,7 +61,10 @@ with col1:
 with col2:
     try:
         st.image("oip.png", use_container_width=True)
-   
+      except:
+        st.info("📸")
+
+st.markdown("---")
 
 
 # ---- FORMATIONS & PROJETS ----
