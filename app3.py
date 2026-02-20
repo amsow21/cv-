@@ -65,7 +65,7 @@ with col1:
     )
 
 with col2:
-    st.image("profile.jpg", use_column_width=True)
+    st.image("oip.png", use_column_width=True)
 
 st.markdown("---")
 
