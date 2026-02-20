@@ -62,7 +62,7 @@ with col2:
     try:
         st.image("oip.png", use_container_width=True)
     except:
-        st.info("📸 (Ajoutez 'oip.png' dans le dossier pour afficher votre photo)")
+        st.info("📸 ()")
 
 st.markdown("---")
 
