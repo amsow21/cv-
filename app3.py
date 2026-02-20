@@ -63,7 +63,6 @@ with col2:
         st.image("oip.png", use_container_width=True)
    
 
-st.markdown("---")
 
 # ---- FORMATIONS & PROJETS ----
 col_f, col_p = st.columns(2)
