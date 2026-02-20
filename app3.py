@@ -61,11 +61,10 @@ with col1:
 with col2:
     try:
         st.image("oip.png", use_container_width=True)
-      except:
-        st.info("📸")
+    except:
+        st.info("📸 (Ajoutez 'oip.png' dans le dossier pour afficher votre photo)")
 
 st.markdown("---")
-
 
 # ---- FORMATIONS & PROJETS ----
 col_f, col_p = st.columns(2)
