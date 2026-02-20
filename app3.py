@@ -1,6 +1,4 @@
 import streamlit as st
-import folium
-from streamlit_folium import st_folium
 
 # Configuration page
 st.set_page_config(
